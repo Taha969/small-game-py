@@ -19,7 +19,6 @@ SPEED = 15
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption('Taha')
 
-
 clock = pygame.time.Clock()
 
 font_style = pygame.font.SysFont("bahnschrift", 25)
@@ -114,8 +113,4 @@ def gameLoop():
 
     pygame.quit()
     quit()
-
-
 gameLoop()
-
-
