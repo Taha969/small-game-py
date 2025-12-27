@@ -11,12 +11,10 @@ RED = (213, 50, 80)
 GREEN = (0, 255, 0)
 BLUE = (50, 153, 213)
 
-
 WIDTH = 800
 HEIGHT = 600
 BLOCK_SIZE = 20
 SPEED = 15
-
 
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption('Taha')
@@ -119,4 +117,5 @@ def gameLoop():
 
 
 gameLoop()
+
 
