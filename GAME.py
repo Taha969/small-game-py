@@ -4,7 +4,6 @@ import time
 
 pygame.init()
 
-
 WHITE = (255, 255, 255)
 YELLOW = (255, 255, 102)
 BLACK = (0, 0, 0)
@@ -120,3 +119,4 @@ def gameLoop():
 
 
 gameLoop()
+
