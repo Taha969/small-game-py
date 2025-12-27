@@ -67,13 +67,14 @@ This is the heart of the application. It runs continuously until the player quit
     message: Renders text on the screen to communicate the game status to the player.
 
 🎮 Controls Summary
-Key	Action
-⬆️ Up Arrow	Move Up
+Key	           Action
+⬆️ Up Arrow 	Move Up
 ⬇️ Down Arrow	Move Down
 ➡️ Right Arrow	Move Right
 ⬅️ Left Arrow	Move Left
-Q	Quit Game (on Game Over screen)
-C	Play Again (on Game Over screen)
+Q	 Quit Game (on Game Over screen)
+C	 Play Again (on Game Over screen)
+
 🛠️ Built With
 
     Python - Logic and Structure.
