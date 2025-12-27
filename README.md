@@ -1,4 +1,4 @@
-🐍 Classic Snake Game - Taha Edition
+ # **🐍Classic Snake Game**
 
 Welcome to the Snake Game project, developed in Python using the Pygame library.This project is a modern implementation of the timeless classic,
 where the player controls a snake that grows in length as it consumes food,challenging the user to avoid walls and its own body.
@@ -66,7 +66,7 @@ This is the heart of the application. It runs continuously until the player quit
 
     message: Renders text on the screen to communicate the game status to the player.
 
-🎮 Controls Summary
+🎮Controls Summary
 Key	           Action
 ⬆️ Up Arrow 	Move Up
 ⬇️ Down Arrow	Move Down
