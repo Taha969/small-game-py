@@ -2,25 +2,26 @@
 
 Welcome to the Snake Game project, developed in Python using the Pygame library.This project is a modern implementation of the timeless classic,
 where the player controls a snake that grows in length as it consumes food,challenging the user to avoid walls and its own body.
-📖 About the Project
+
+# 📖 About the Project
 
 This game is designed to be both simple and engaging, focusing on core game development concepts such as:
+   
+   ⚪ Dynamic Movement: Real-time response to keyboard inputs.
+   
+   ⚪ Growth System: The snake increases in length with every "food" item consumed.
+    
+   ⚪ State Management: Handling "Game Over," "Reset," and "Quit" states.
+    
+   ⚪ Visuals: A clean UI featuring a blue background, a green snake, and red food blocks.
 
-    Dynamic Movement: Real-time response to keyboard inputs.
-
-    Growth System: The snake increases in length with every "food" item consumed.
-
-    State Management: Handling "Game Over," "Reset," and "Quit" states.
-
-    Visuals: A clean UI featuring a blue background, a green snake, and red food blocks.
-
-⚙️ Prerequisites
+# ⚙️ Prerequisites
 
 To run this game smoothly, ensure you have the following installed:
 
-    Python 3.x: The core programming language.
+  ⚪ Python 3.x: The core programming language.
 
-    Pygame Library: The framework used for graphics and event handling.
+  ⚪ Pygame Library: The framework used for graphics and event handling.
 
 You can install the required library via Terminal/Command Prompt using:
 Bash
